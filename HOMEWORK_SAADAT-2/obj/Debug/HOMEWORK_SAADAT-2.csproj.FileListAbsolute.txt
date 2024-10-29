@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\مجلد جديد (2)\HOMEWORK_SAADAT-2\bin\Debug\HOMEWORK_SAADAT-2.exe.config
+C:\Users\DELL\Desktop\مجلد جديد (2)\HOMEWORK_SAADAT-2\bin\Debug\HOMEWORK_SAADAT-2.exe
+C:\Users\DELL\Desktop\مجلد جديد (2)\HOMEWORK_SAADAT-2\bin\Debug\HOMEWORK_SAADAT-2.pdb
+C:\Users\DELL\Desktop\مجلد جديد (2)\HOMEWORK_SAADAT-2\obj\Debug\HOMEWORK_SAADAT-2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\مجلد جديد (2)\HOMEWORK_SAADAT-2\obj\Debug\HOMEWORK_SAADAT-2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\مجلد جديد (2)\HOMEWORK_SAADAT-2\obj\Debug\HOMEWORK_SAADAT-2.exe
+C:\Users\DELL\Desktop\مجلد جديد (2)\HOMEWORK_SAADAT-2\obj\Debug\HOMEWORK_SAADAT-2.pdb
